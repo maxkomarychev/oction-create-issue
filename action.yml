@@ -45,5 +45,5 @@ runs:
   main: index.js
 
 branding:
-  icon: icon123
-  color: color100500
+  icon: alert-triangle
+  color: orange

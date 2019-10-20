@@ -12,7 +12,7 @@ This action implements `POST` request to `/repos/{owner}/{repo}/issues`
 # Quick start
 
 ```yaml
-- uses: maxkomarychev/oction-create-issue@v0.6.1
+- uses: maxkomarychev/oction-create-issue@v0.6.2
   id: my_step_id
   with:
     token: <token value>
@@ -45,7 +45,7 @@ This action implements `POST` request to `/repos/{owner}/{repo}/issues`
 |id|`id` field of the response (if exists)|
 |number|`number` field of the response (if exists)|
 
-# Friendly octions:
+# Friendly octions
 
 * [oction-create-deployment-status](https://github.com/maxkomarychev/oction-create-deployment-status)
 * [oction-create-deployment](https://github.com/maxkomarychev/oction-create-deployment)
